@@ -11,7 +11,7 @@
         "onRemove" : [
             "sql/remove.sql"
         ]
-    ]
+    ],
     "AddSCs": [
         "AddSC_my_script",
         "AddSC_my_script2"
