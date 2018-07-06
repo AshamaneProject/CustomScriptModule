@@ -6,10 +6,10 @@
 	],
 	"sql": {
 		"onInstall": [
-			"sql/install.sql"
+			"install.sql"
 		],
 		"onRemove": [
-			"sql/remove.sql"
+			"remove.sql"
 		]
 	},
 	"AddSCs": [
