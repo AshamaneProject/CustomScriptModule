@@ -4,5 +4,8 @@
     "files": [
         "myscript.cpp"
     ],
-    "AddSC": "AddSC_my_script"
+    "AddSCs": [
+        "AddSC_my_script",
+        "AddSC_my_script2"
+    ]
 }
