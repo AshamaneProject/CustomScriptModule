@@ -5,10 +5,10 @@
         "myscript.cpp"
     ],
     "sql": [
-        "onInstall" : [
+        "onInstall": [
             "sql/install.sql"
         ],
-        "onRemove" : [
+        "onRemove": [
             "sql/remove.sql"
         ]
     ],
