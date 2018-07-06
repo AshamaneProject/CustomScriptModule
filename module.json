@@ -4,14 +4,14 @@
     "files": [
         "myscript.cpp"
     ],
-    "sql": [
+    "sql": {
         "onInstall" : [
             
         ],
         "onRemove" : [
             
         ]
-    ]
+    },
     "AddSCs": [
         "AddSC_my_script",
         "AddSC_my_script2"
