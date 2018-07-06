@@ -1,0 +1,7 @@
+{
+    "title": "Skeleton Module",
+    "files": [
+        "myscript.cpp"
+    ],
+    "AddSC": "AddSC_my_script"
+}
