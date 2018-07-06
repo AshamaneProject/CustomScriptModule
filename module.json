@@ -1,19 +1,18 @@
 {
-	"title": "Skeleton Module",
-	"version": "1.0.0",
-	"files": [
-		"myscript.cpp"
-	],
-	"sql": {
-		"onInstall": [
-			"install.sql"
-		],
-		"onRemove": [
-			"remove.sql"
-		]
-	},
-	"AddSCs": [
-		"AddSC_my_script",
-		"AddSC_my_script2"
-	]
+    "title": "Skeleton Module",
+    "version": "1.0.0",
+    "files": [
+        "myscript.cpp"
+    ],
+    "sql": {
+        "onInstall": [
+            "install.sql"
+        ],
+        "onRemove": [
+            "remove.sql"
+        ]
+    },
+    "AddSCs": [
+        "AddSC_my_script"
+    ]
 }
